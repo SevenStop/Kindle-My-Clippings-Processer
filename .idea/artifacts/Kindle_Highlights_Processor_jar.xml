@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Kindle Highlights Processor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Kindle_Highlights_Processor_jar</output-path>
+    <root id="archive" name="Kindle Highlights Processor.jar">
+      <element id="module-output" name="Kindle Highlights Processor" />
+    </root>
+  </artifact>
+</component>
