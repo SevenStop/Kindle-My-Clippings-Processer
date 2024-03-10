@@ -1,7 +1,8 @@
+<pre>
 Simple java program that can process the Kindle My Clippings text file into a simple text file with only the line numbers and contents.
 The number in paratheneses represents the line in the original file and the number on the left represents the index.
 
-<b>INPUT EXAMPLE:</b>
+INPUT EXAMPLE:
 
 無職転生 ～異世界行ったら本気だす～ 06 (MFブックス) (理不尽な孫の手)
 - 位置No. 4404-4404のハイライト |作成日: 2023年8月10日木曜日 18:36:08
@@ -31,3 +32,4 @@ OUTPUT EXAMPLE:
 3: 肥大 (14)
 4: 肥大化 (19)
 ...
+</pre>
